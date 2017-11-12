@@ -9,9 +9,12 @@
 ## Terminology
 
 * [Outstanding Shares](terminology/outstanding-shares.md)
+
 * [Weighted Average](terminology/weighted-average.md)
 
 ## Collections
+
+* [Choosing a company to invest in](collections/choosing-an-investment.md)
 
 * [What causes stock prices to change?](collections/what-causes-stock-prices-to-change.md)
 
