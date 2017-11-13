@@ -1,5 +1,11 @@
 # Links to read
 
+## Step by step guide to investment analysis
+
+https://www.sharescope.co.uk/philoakley.jsp#guide
+
+
+
 ## Investment
 
 [Basics of outstanding shares and the float](https://www.investopedia.com/articles/basics/03/030703.asp)

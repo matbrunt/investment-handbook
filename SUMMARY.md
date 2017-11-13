@@ -18,6 +18,11 @@
 
 * [What causes stock prices to change?](collections/what-causes-stock-prices-to-change.md)
 
+### Investment Analysis
+
+* [Contents](investment-analysis/contents.md)
+  * [Balance sheets](investment-analysis/balance-sheets.md)
+
 ## Instruments
 
 * [Bonds](instruments/bonds.md)
